@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "solc": "^0.8.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.51.0",
+    "ws": "^8.18.0"
+  }
+}
